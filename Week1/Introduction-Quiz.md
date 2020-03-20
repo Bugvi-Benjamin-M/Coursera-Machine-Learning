@@ -78,7 +78,7 @@ dataset is available for your algorithm to learn from.
 
 Answer: </br>
 
-Apply supervised learning to <br>#1</br> and <br>#2</br>.
+Apply supervised learning to <b>#1</b> and <b>#2</b>.
 
 Question 5
 ----------
@@ -94,4 +94,4 @@ Which of these is a reasonable definition of machine learning?
 
 Answer: </br>
 
-The answer is <br>#2</br>.
+The answer is <b>#2</b>.
