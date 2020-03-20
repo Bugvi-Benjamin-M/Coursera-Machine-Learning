@@ -97,4 +97,4 @@ Which of the statements below must then be true? (Check all that apply.)
 
 Answers: </br>
 
-The only true statement is <b>#43</b>.
+The only true statement is <b>#3</b>.
