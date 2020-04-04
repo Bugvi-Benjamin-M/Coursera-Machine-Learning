@@ -1,4 +1,7 @@
+# Submission Results
+
 Part Name | Score | Feedback
+-- | -- | ––
 Regularized Linear Regression Cost Function |  25 /  25 | Nice work!
 Regularized Linear Regression Gradient |  25 /  25 | Nice work!
 Learning Curve |  20 /  20 | Nice work!
